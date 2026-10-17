@@ -1,0 +1,16 @@
+# ---- Secrets: never commit ----
+.env
+.env.local
+.env.*.local
+
+# ---- Claude Code local settings (may contain saved command args/secrets) ----
+.claude/
+
+# ---- OS / editor cruft ----
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# ---- Logs / scratch ----
+*.log
