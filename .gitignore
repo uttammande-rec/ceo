@@ -2,6 +2,7 @@
 .env
 .env.local
 .env.*.local
+.ftp.env
 
 # ---- Claude Code local settings (may contain saved command args/secrets) ----
 .claude/
